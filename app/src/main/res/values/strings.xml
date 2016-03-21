@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CamK</string>
+    <string name="app_intro">app_intro</string>
 </resources>

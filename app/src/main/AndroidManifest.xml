@@ -19,6 +19,9 @@
             </intent-filter>
         </activity>
 
+        <activity android:name="com.example.denys.camk.MyIntro"
+            android:label="@string/app_intro" />
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,5 +30,6 @@
             </intent-filter>
         </activity>
     </application>
+
 
 </manifest>
